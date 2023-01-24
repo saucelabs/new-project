@@ -1,6 +1,6 @@
-# Project Boilerplate
+# Elemental Bromine
 
-This project contains a template to use when creating a new project. It comes with all the standard files which there is expected to be in an open source project on Github. 
+This project revamps Elemental Selenium and it aims to be a source of help for Selenium users.
 
 ## How to use
 
