@@ -4,9 +4,17 @@ We have included the following content template to allow you to easily add your 
 
 #### Instructions : How To Contribute 
 -  Create a new folder for your tip in the tips folder with the following naming convention : [tip number] [tip title] (naming convention should follow kebab-case ex: 1-how-to-upload-a-file)
--  To create a new folder, go to the ```tips``` folder, go to ```add file``` dropdown, select ```create new file```, using the naming convention above, add a new folder by adding``` / ``` to the end of your tip name (ex : 1-how-to-upload-a-file/) 
--  Within the tip folder you create, you will also create MD files for each of the following programming languages : CSharp, Java, JavaScript, Ruby and Python (ex : java.md, javascript.md, etc)
--  You will add your tip contribution to one of the programming languages above - you don't have to add examples for every language
+-  To create a new folder, use the following tree structure :
+
+#### Project tree
+ * [tips](./tips)
+ * [1-how-to-upload-a-file](./how-to-upload-a-file)
+   * [csharp.md](./how-to-upload-a-file/csharp.md)
+   * [java.md](./how-to-upload-a-file/java.md)
+   * [javascript.md](./how-to-upload-a-file/javascript.md)
+   * [ruby.md](./how-to-upload-a-file/ruby.md)
+   * [python.md](./how-to-upload-a-file/python.md)
+-  Within the tip folder you create, you will also create MD file for the tip you are adding (ex : javascript.md). You will add your tip contribution to one of the programming languages above - you don't have to add examples for every language
 -  Copy the content template below 
 -  Fill out the content template with as much of the information listed as you can
 
