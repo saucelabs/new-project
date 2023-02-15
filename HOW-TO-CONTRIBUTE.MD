@@ -14,6 +14,8 @@ We have included the following content template to allow you to easily add your 
 Use Markdown in order to add code samples, screenshots and links:
 - Images : You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ( ) 	
 - Links : You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( )
+- Code Snippets : You can create a code snippet by adding a backtick to the beginning and end of your code example 
+For more on Markdown, here's a guide to help : https://www.markdownguide.org/cheat-sheet/
 
 #### Content Template : Add Your Tip Content
 
