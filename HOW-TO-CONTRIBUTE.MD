@@ -4,7 +4,7 @@ We have included the following content template to allow you to easily add your 
 
 #### Instructions : How To Contribute 
 -  Create a new folder for your tip in the tips folder with the following naming convention : [tip number] [tip title] (naming convention should follow kebab-case ex: 1-how-to-upload-a-file)
--  To create a new folder, go to the ```tips``` folder, go to ```add a new file```, using the naming convention above, add a new folder by adding``` /``` to the end of your tip name (ex : 1-how-to-upload-a-file/) 
+-  To create a new folder, go to the ```tips``` folder, go to ```add file``` dropdown, select ```create new file```, using the naming convention above, add a new folder by adding``` / ``` to the end of your tip name (ex : 1-how-to-upload-a-file/) 
 -  Within the tip folder you create, you will also create MD files for each of the following programming languages : CSharp, Java, JavaScript, Ruby and Python (ex : java.md, javascript.md, etc)
 -  You will add your tip contribution to one of the programming languages above - you don't have to add examples for every language
 -  Copy the content template below 
@@ -15,7 +15,7 @@ Use Markdown in order to add code samples, screenshots and links:
 - Images : You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ( ) 	
 - Links : You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( )
 - Code Snippets : You can create a code snippet by adding a backtick to the beginning and end of your code example 
-For more on Markdown, here's a guide to help : https://www.markdownguide.org/cheat-sheet/
+- For more on Markdown, here's a guide to help : https://www.markdownguide.org/cheat-sheet/
 
 #### Content Template : Add Your Tip Content
 
